@@ -1,17 +1,9 @@
 from flask import (
     Flask,
-    render_template,
-    request,
-    redirect,
-    flash,
-    url_for,
-    current_app
+    render_template
 )
 import json
-import urllib.request
-from urllib.parse import urlparse, urljoin
-from bs4 import BeautifulSoup
-import requests, validators, json, uuid, pathlib, os
+import requests
 app = Flask(__name__)
 
 
@@ -27,6 +19,9 @@ def get_beer():
     }
     # print(beer)
     return render_template('index.html', beer=beer)
+
+
+
 
 
 if __name__ == "__main__":
