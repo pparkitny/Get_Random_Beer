@@ -14,4 +14,4 @@ To check this app download the repository, open the project in the IDE and run i
 
 Patryk Parkitny - [@LinkedIn](https://linkedin.com/in/patryk-parkitny) - patryk.parkitnyy@gmail.com
 
-Project Link: [https://github.com/pparkitny/Random_Beer_API](https://github.com/pparkitny/Random_Beer_API)
+Project Link: [https://github.com/pparkitny/Get_Random_Beer](https://github.com/pparkitny/Get_Random_Beer)
