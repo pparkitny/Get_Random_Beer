@@ -1,4 +1,4 @@
-# Random Beer API
+# Get Random Beer
 
 ## About The Project
 
